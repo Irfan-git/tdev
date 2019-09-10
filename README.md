@@ -1,3 +1,4 @@
 # tdev
-WordPress theme
-<a href="#">Flex nav</a>
+An accessibility supported WordPress Theme.
+
+Can be used as multipurpose theme if developed correctly.
