@@ -1,7 +1,7 @@
 # Tdev
 An accessibility supported WordPress Theme.
 
-Can be used as multipurpose theme if developed correctly.
+The theme is still in development and can be used as multipurpose theme with small tweaks.
 
 # Features
 
