@@ -6,34 +6,6 @@
  * Licensed under MIT Open Source
  */
 
-@font-face {
-  font-family: Bree-Serif-Light;
-  src: url(../font/Bree-Serif-Light.otf) format('otf');
-}
-
-@font-face {
-  font-family: Bree-Serif-Light-webfont;
-  src: url(../font/Bree-Serif-Light-webfont.eot) format('eot');
-}
-
-@font-face {
-  font-family: Bree-Serif-Light-webfont;
-  src: url(../font/Bree-Serif-Light-webfont.ttf) format('ttf');
-}
-
-@font-face {
-  font-family: Bree-Serif-Light-webfont;
-  src: url(../font/Bree-Serif-Light-webfont.woff) format('woff');
-}
-
-@font-face {
-  font-family: Bree-Serif-Light-webfont;
-  src: url(../font/Bree-Serif-Light-webfont.woff2) format('woff2');
-}
-
-
-
-
 @media print, screen and (min-width: 40em) {
   .reveal, .reveal.tiny, .reveal.small, .reveal.large {
     right: auto;
