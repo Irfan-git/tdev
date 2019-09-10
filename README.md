@@ -1,4 +1,4 @@
-# Tdev
+# Tdev WordPress theme
 An accessibility supported WordPress Theme.
 
 The theme is still in development and can be used as multipurpose theme with small tweaks.
