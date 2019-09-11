@@ -5,10 +5,8 @@ The theme is still in development and can be used as multipurpose theme with sma
 
 # Features
 
-<ul>
-  <li>Accessibility support</li>
-  <li><a href="https://github.com/foundation/foundation-sites">Foundation</a> framework</li>
-  <li><a href="https://github.com/mrjasonweaver/flexnav">Flex nav</a> used for navigation</li>
-  <li><a href="https://github.com/BraadMartin/components/tree/master/customizer/alpha-color-picker">Customizer alpha color picker control</a></li>
-  <li><a href="https://github.com/soderlind/class-customizer-range-value-control">Customizer range slider</a></li>
-</ul>
+  * Accessibility support
+  * [Foundation](https://github.com/foundation/foundation-sites") framework
+  * [Flex nav](https://github.com/mrjasonweaver/flexnav) for navigation
+  * [Customizer alpha color picker control](https://github.com/BraadMartin/components/tree/master/customizer/alpha-color-picker)
+  * [Customizer range slider](https://github.com/soderlind/class-customizer-range-value-control)
