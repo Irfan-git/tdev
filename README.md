@@ -1,7 +1,7 @@
 # Tdev WordPress theme
 An accessibility supported WordPress Theme.
 
-The theme is still in development. 95% of the development is done and can be used as multipurpose theme with small tweaks.
+The theme is still in development. 95% work is done and can be used as multipurpose theme with small tweaks.
 
 ## Features
 
