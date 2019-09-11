@@ -3,7 +3,7 @@ An accessibility supported WordPress Theme.
 
 The theme is still in development and can be used as multipurpose theme with small tweaks.
 
-# Features
+## Features
 
   * Accessibility support
   * [Foundation](https://github.com/foundation/foundation-sites") framework
